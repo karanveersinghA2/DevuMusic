@@ -2,7 +2,7 @@
   "name": "HyperX Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://telegra.ph/file/99446be35330477534a5d.jpg",
+  "logo": "https://te.legra.ph/file/336924d94f873a63a26cf.jpg",
   "repository": "https://github.com/ItsmeHyper13/DevuMusic",
   "stack": "container",
   "env": {
