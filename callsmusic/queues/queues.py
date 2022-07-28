@@ -1,7 +1,7 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @Dynamite_101 | @hehe_joker
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @Dynamite_101 | @hehe_joker
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 from typing import Dict
